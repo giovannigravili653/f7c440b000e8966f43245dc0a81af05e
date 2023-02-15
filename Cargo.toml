@@ -8,5 +8,8 @@ edition = "2021"
 [dependencies]
 glfw = "0.51.0"
 glium = "0.32.1"
+image = "0.24.5"
 nalgebra-glm = "0.18.0"
 russimp = { version = "2.0.2", features = ["prebuilt"] }
+stb_image_rust = "2.27.2"
+# stb = { version = "0.3.2", default-features = false, features = ["stb_image"] }
